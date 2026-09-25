@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Android Tic-Tac-Toe</string>
+    <string name="you_go_first">You go first.</string>
+    <string name="android_go_first">Android goes first.</string>
+    <string name="your_turn">Your turn.</string>
+    <string name="android_turn">Android\'s turn.</string>
+    <string name="its_tie">It\'s a tie.</string>
+    <string name="you_won">You won!</string>
+    <string name="android_won">Android won!</string>
+    <string name="new_game">New Game</string>
+    <string name="score_human">Human: %d</string>
+    <string name="score_tie">Tie: %d</string>
+    <string name="score_android">Android: %d</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="quit">Quit</string>
+    <string name="easy">Easy</string>
+    <string name="harder">Harder</string>
+    <string name="expert">Expert</string>
+    <string name="difficulty_title">Select Difficulty</string>
+    <string name="quit_title">Quit Game</string>
+    <string name="quit_message">Are you sure you want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="difficulty_selected">Difficulty: %s</string>
+    <string name="about">About</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_author">Cristian Medina</string>
+    <string name="about_email">crmedinab@unal.edu.co</string>
+    <string name="ok">OK</string>
+</resources>
