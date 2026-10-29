@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Directorio de Empresas</string>
+
+    <!-- Listado y filtros -->
+    <string name="search_by_name">Buscar por nombre</string>
+    <string name="filter_all">Todas</string>
+    <string name="classification_consulting">Consultoría</string>
+    <string name="classification_custom_development">Desarrollo a la medida</string>
+    <string name="classification_software_factory">Fábrica de software</string>
+    <string name="empty_list">No hay empresas registradas.\nToca el botón + para agregar la primera.</string>
+    <string name="add_company">Agregar empresa</string>
+    <string name="edit_company">Editar empresa</string>
+
+    <!-- Detalle -->
+    <string name="company_name_label">Nombre</string>
+    <string name="company_url">Página web</string>
+    <string name="company_phone">Teléfono</string>
+    <string name="company_email">Correo electrónico</string>
+    <string name="company_products">Productos y servicios</string>
+    <string name="company_classifications">Clasificación</string>
+    <string name="not_registered">No registrado</string>
+    <string name="edit">Editar</string>
+
+    <!-- Eliminación -->
+    <string name="delete_company">Eliminar empresa</string>
+    <string name="delete_confirmation">¿Eliminar la empresa \"%1$s\"? Esta acción no se puede deshacer.</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="company_deleted">Empresa eliminada</string>
+
+    <!-- Formulario -->
+    <string name="company_name">Nombre de la empresa</string>
+    <string name="company_url_hint">https://www.ejemplo.com</string>
+    <string name="company_phone_hint">Ej: 300 123 4567</string>
+    <string name="company_email_hint">Ej: contacto@ejemplo.com</string>
+    <string name="company_products_hint">Describe los productos y servicios que ofrece</string>
+    <string name="classifications_hint">Clasificación (selecciona al menos una)</string>
+    <string name="save">Guardar</string>
+    <string name="company_saved">Empresa registrada</string>
+    <string name="company_updated">Empresa actualizada</string>
+
+    <!-- Errores -->
+    <string name="error_name_required">Ingresa un nombre de al menos 2 caracteres</string>
+    <string name="error_url_invalid">Ingresa una URL válida (https://…)</string>
+    <string name="error_phone_invalid">Ingresa un teléfono válido (mínimo 7 dígitos)</string>
+    <string name="error_email_invalid">Ingresa un correo electrónico válido</string>
+    <string name="error_products_required">Describe los productos y servicios (mínimo 3 caracteres)</string>
+    <string name="error_classification_required">Selecciona al menos una clasificación</string>
+    <string name="error_duplicate_name">Ya existe una empresa con ese nombre</string>
+    <string name="error_company_not_found">No se encontró la empresa</string>
+    <string name="error_save_failed">No se pudo guardar la empresa</string>
+    <string name="error_delete_failed">No se pudo eliminar la empresa</string>
+</resources>
